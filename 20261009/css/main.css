@@ -1,18 +1,18 @@
 /* main.css … 26543 さんの担当 */
-.box {
+  menu__box {
   max-width: 960px;
   margin: 0 auto;
   padding: 48px 16px;
 }
 
-.title {
+.menu__title {
   margin: 0 0 24px;
   font-size: 28px;
   text-align: center;
   color: #3b2a20;
 }
 
-.list {
+.menu__list {
   display: flex;
   gap: 24px;
   margin: 0;
@@ -20,7 +20,7 @@
   list-style: none;
 }
 
-.item {
+.menu__item {
   flex: 1;
   padding: 24px;
   border-radius: 12px;
@@ -28,25 +28,25 @@
   text-align: center;
 }
 
-.name {
+.menu__name {
   margin: 0;
   font-size: 18px;
 }
 
-.text {
+.menu__text {
   margin: 8px 0;
   font-size: 14px;
   color: #666;
 }
 
-.price {
+.menu__price {
   margin: 0 0 16px;
   font-size: 20px;
   font-weight: bold;
   color: #b5651d;
 }
 
-.btn {
+.menu__btn {
   display: inline-block;
   padding: 6px 20px;
   border: 2px solid #3b2a20;
