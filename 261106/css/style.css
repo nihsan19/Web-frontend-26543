@@ -136,7 +136,7 @@ body {
   display: inline-block;
   padding: 8px 24px;
   border-radius: 6px;
-  background: #d9534f;
+  background-color: #c8553d; /* ← この行（12行目頃）のカラーコードを変更 */
   color: #fff;
   text-decoration: none;
 }
