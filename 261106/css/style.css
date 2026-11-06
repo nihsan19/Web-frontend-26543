@@ -141,8 +141,8 @@ body {
   text-decoration: none;
 }
 
-.product-card__button:hover {
-  background: #a63f2c;
+.btn-reserve:hover {
+  background-color: #a63f2c;
 }
 
 /* ===== アクセス ===== */
